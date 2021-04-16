@@ -5,7 +5,7 @@
   <samp>Hi! 
     <br>I'm <a href="https://itsjlee.io">Juliana</a>.
     <br>I am a <ins>Front End Web Developer.</ins>
-    <br>I build/optimize interactive, user-friendly, feature-rich websites & web applications. 
+    <br>I build interactive, user-friendly, feature-rich websites & web applications. 
     <br>
     <br>
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25">
