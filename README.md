@@ -4,7 +4,7 @@
   <br>
   <samp>Hi! 
     <br>I'm <a href="https://itsjlee.io">Juliana</a>.
-    <br>I am a <ins>Front End Web Developer.</ins>
+    <br>I am a <ins>Junior Full Stack Developer.</ins>
     <br>I build interactive, user-friendly, feature-rich websites & web applications. 
     <br>
     <br>
